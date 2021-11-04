@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("./img/6F573C6F-BE6F-4A87-9474-E0C4CB3EE5A1.png");
+  background-position: center;
+}
+.content {
+  position: absolute;
+  width: 1428px;
+  height: 966.2px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: url("./img/7D5AC662-CBFA-48C5-8989-C2437D30BCDF.png");
+}
+.screen {
+  position: absolute;
+  top: 392.7px;
+  left: 325px;
+}
+.logo {
+  position: absolute;
+  top: 57.6px;
+  left: 399.8px;
+}
+.logo img {
+  width: 124.9px;
+}
+.company-name {
+  position: absolute;
+  top: 66.9px;
+  left: 557.5px;
+  text-align: center;
+}
+.company-name h1 {
+  margin: 9.3px 20.8px 0 32.8px;
+
+  font-size: 41.7px;
+  line-height: 1.33;
+  letter-spacing: 8.35px;
+}
+.company-name p {
+  margin: 7.5px 18.8px 225.3px 32.8px;
+  font-size: 30.1px;
+  line-height: 0.81;
+  letter-spacing: normal;
+}
+.poster {
+  position: absolute;
+  top: 418.8px;
+  left: 51.3px;
+}
+.poster img {
+  width: 170.2px;
+}
+.arrow {
+  position: absolute;
+  top: 0.2px;
+  left: 32.4px;
+}
+.arrow img {
+  width: 66.7px;
+}
+.button {
+  position: absolute;
+  bottom: 39.8px;
+  left: 537.8px;
+}
+.button img {
+  width: 357.1px;
+  height: 87.6px;
+}
+.board {
+  position: absolute;
+  top: 407px;
+  right: 48.2px;
+}
+.board-content {
+  position: absolute;
+  top: 20px;
+}
+.board-content li {
+  list-style: none;
+}
+.board-content img {
+  width: 58px;
+  height: 22px;
+}
+.board-content p {
+  width: 220px;
+  margin: 10px 0;
+}
+.border-web {
+  position: absolute;
+  top: 0;
+  right: 26.2px;
+}
+.border-web img {
+  width: 52.6px;
+}
+.hand {
+  position: absolute;
+  bottom: 0px;
+  left: 836.8px;
+}
